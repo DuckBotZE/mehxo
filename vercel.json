@@ -1,0 +1,8 @@
+{
+  "version": 2,
+  "name": "mvfp",
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/api/index" }
+  ],
+  "trailingSlash": false
+}
